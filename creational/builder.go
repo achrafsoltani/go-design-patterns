@@ -1,4 +1,4 @@
-package main
+package creational
 
 type VehicleProduct struct {
 	Wheels    int
