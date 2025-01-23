@@ -13,3 +13,9 @@ A Builder design pattern tries to:
 user objects
 - Create an object step by step by filling its fields and creating the embedded
 - Reuse the object creation algorithm between many objects
+
+### 03 - Factory
+A Factory design pattern tries to:
+- Delegating the creation of new instances of structures to a different part of the program
+- Working at the interface level instead of with concrete implementations
+- Grouping families of objects to obtain a family object creator
