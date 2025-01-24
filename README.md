@@ -19,3 +19,8 @@ A Factory design pattern tries to:
 - Delegating the creation of new instances of structures to a different part of the program
 - Working at the interface level instead of with concrete implementations
 - Grouping families of objects to obtain a family object creator
+
+### 04 - Abstract Factory
+An Abstract Factory design pattern tries to:
+- Provide a new layer of encapsulation for Factory methods that returns a common interface for all factories
+- Group common factories into a super Factory (also called factory of factories)
